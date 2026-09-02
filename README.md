@@ -3,7 +3,8 @@
 <br>**Summary** : Duplikasi prospek ketika mengirim data dengan waktu bersamaan pada database</br>
 <br>**Reporter** : M Ilham Makarim</br></br>
 <br>Step To Reproduce </br>
+
 <br>Severity : High</br>
 <br>Priority : High</br>
-<br>Actual Result : Sete</br>
-<br>Expected Result : </br>
+<br>Actual Result : Prospek terduplikasi ketika mengirim secara bersamaan</br>
+<br>Expected Result : Prospek tidak terduplikasi ketika mengirim secara bersamaan</br>
