@@ -4,8 +4,8 @@
 <br>**Reporter** : M Ilham Makarim</br>
 <br>**Step To Reproduce** 
 1. Persiapkan Whatsapp dari mobile phone dengan nomor yang sama
-2. Persiapkan Whatsapp dari Website dengan nomor yang sama
-3. Kirim pesan dengan nomor telapon yang sama dalam waktu bersamaan</br>
+2. Persiapkan Whatsapp dari website dengan nomor yang sama
+3. Kirim pesan dengan nomor telepon yang sama dalam waktu bersamaan</br>
 
 <br>**Test Data** : 08818670699</br>
 <br>**Actual Result** : Prospek terduplikasi ketika mengirim secara bersamaan dengan nomor 08818670699 ada 2 di database</br>
