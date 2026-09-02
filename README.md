@@ -8,8 +8,8 @@
 3. Kirim message dengan data yang sama dalam waktu bersamaan</br>
 <br>**Test Data** : 08818670699</br>
 
-<br>**Actual Result** : Prospek terduplikasi ketika mengirim secara bersamaan</br>
-<br>**Expected Result** : Prospek tidak terduplikasi ketika mengirim secara bersamaan</br>
+<br>**Actual Result** : Prospek terduplikasi ketika mengirim secara bersamaan dengan nomor 08818670699 ada 2 di database </br>
+<br>**Expected Result** : Prospek tidak terduplikasi ketika mengirim secara bersamaan hanya satu nomor 08818670699 yang di database </br>
 <br>**Severity** : High</br>
 <br>**Priority** : High</br>
 <br>**Evidence** : Video/Screenshot</br>
