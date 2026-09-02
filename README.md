@@ -2,7 +2,7 @@
 Bug ID : B-0001
 Summary : Duplikasi prospek ketika mengirim data dengan waktu bersamaan pada database
 Reporter : M Ilham Makarim
-Step To Reproduce :
+Step To Reproduce 
 - 
 
 Severity : High
