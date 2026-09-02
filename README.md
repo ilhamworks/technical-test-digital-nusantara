@@ -12,3 +12,6 @@
 <br>**Severity** : High</br>
 <br>**Priority** : High</br>
 <br>**Evidence** : Video/Screenshot</br>
+<br>**Note** :
+1. lakukan unit testing dahulu sebelum deploy ke staging
+2. pastikan ketika kirim dalam waktu bersamaan baik dari 2 atau lebih pesan yang masuk ke database hanya 1 nomor</br>
