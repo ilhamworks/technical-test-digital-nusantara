@@ -3,7 +3,7 @@
 <br>**Summary** : Duplikasi prospek ketika mengirim data dengan waktu bersamaan pada database</br>
 <br>**Reporter** : M Ilham Makarim</br></br>
 <br>Step To Reproduce </br>
-
+Kirim payload JSON dengan data valid ke webhook dengan data yang sama dalam waktu bersamaan
 <br>Severity : High</br>
 <br>Priority : High</br>
 <br>Actual Result : Prospek terduplikasi ketika mengirim secara bersamaan</br>
