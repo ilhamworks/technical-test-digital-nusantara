@@ -3,7 +3,9 @@
 <br>**Summary** : Duplikasi prospek ketika mengirim data dengan waktu bersamaan pada database</br>
 <br>**Reporter** : M Ilham Makarim</br>
 <br>**Step To Reproduce** 
-1. Kirim payload JSON dengan data valid ke webhook dengan data yang sama dalam waktu bersamaan</br>
+1. Persiapkan Whatsapp dari mobile phone
+2. Persiapkan Whatsapp dari Website
+3. Kirim message dengan data yang sama dalam waktu bersamaan</br>
 <br>Severity : High</br>
 <br>Priority : High</br>
 <br>Actual Result : Prospek terduplikasi ketika mengirim secara bersamaan</br>
