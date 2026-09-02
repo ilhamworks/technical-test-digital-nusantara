@@ -1,7 +1,7 @@
 # Bug Report: Duplikasi prospek ketika mengirim data dengan waktu bersamaan pada database
-<br> Bug ID : B-0001 </br>
-<br> Summary : Duplikasi prospek ketika mengirim data dengan waktu bersamaan pada database </br>
-<br> Reporter : M Ilham Makarim</br>
+<br> Bug ID : B-0001
+Summary : Duplikasi prospek ketika mengirim data dengan waktu bersamaan pada database
+Reporter : M Ilham Makarim</br>
 Step To Reproduce 
 - 
 
