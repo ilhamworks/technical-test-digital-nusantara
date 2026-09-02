@@ -12,4 +12,4 @@
 <br>**Expected Result** : Prospek tidak terduplikasi ketika mengirim secara bersamaan</br>
 <br>**Severity** : High</br>
 <br>**Priority** : High</br>
-</br>**Evidence** : Video/Screenshot</br>
+<br>**Evidence** : Video/Screenshot</br>
